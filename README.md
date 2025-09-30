@@ -7,11 +7,6 @@
   Start at full speed with SaaS Starter !
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/johanguse">
-    <img src="https://img.shields.io/twitter/follow/SaasTemplate?style=flat&label=SaasTemplate&logo=twitter&color=0bf&logoColor=fff" alt="Next SaaS Template Twitter follower count" />
-  </a>
-</p>
 
 <p align="center">
   <a href="#introduction"><strong>Introduction</strong></a> ·
@@ -119,4 +114,4 @@ Visit our [Public Roadmap](https://bit.ly/48LTNin) for more
 
 ## Author
 
-Created by [@johanguse](https://twitter.com/johanguse) in 2023
+April Taylor
